@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1472880010 source:/home/mauro/Documentos/Practicas Code Blocks/TP_1_Cascara/main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1457052376 /home/mauro/Documentos/Practicas Code Blocks/TP_1_Cascara/funciones.h
+
